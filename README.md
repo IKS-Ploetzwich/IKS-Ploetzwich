@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-  My name is <strong>Robin</strong>, I'm 26 and am currently finishing the last year of my apprenticeship <a href="https://github.com/iks-gmbh" target="_blank">@IKS-Gmbh</a>.
+  My name is <strong>Robin</strong>, I'm 26 and currently finishing the last year of my apprenticeship <a href="https://github.com/iks-gmbh" target="_blank">@IKS-Gmbh</a>.
 </h2>
 <br>
 <p align="center">
@@ -14,9 +14,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iks-ploetzwich&count_private=true&theme=onedark" />
 </p>
 
+<h2 align="center">Techstack :wrench:</h2>
+<p align="center">Java • Kotlin • TypeScript • Angular • Python • Html • CSS • GraphQL • MySQL • PostgreSQL • MongoDB</p>
+
 <h2 align="center">Hobbies :sparkling_heart:</h2>
 <p align="center">:nerd_face: Coding</p>
-<p align="center">:books: Histor</p>
+<p align="center">:books: History</p>
 <p align="center">:headphones: Music</p>
 <p align="center">:game_die: Tabletop games</p>
 <p align="center">:video_game: Video games</p>
