@@ -3,10 +3,16 @@
   <img alt="Hello There" src="img/hello-there.gif">
 </p>
 
-My name is Robin, I'm 26 and am currently finishing the last year of my apprenticeship [@IKS-Gmbh](https://github.com/iks-gmbh).
+<p align="center">
+  My name is Robin, I'm 26 and am currently finishing the last year of my apprenticeship <a href="https://github.com/iks-gmbh" target="_blank">@IKS-Gmbh</a>.
+</p>
 
-![Robin's github stats](https://github-readme-stats.vercel.app/api?username=iks-ploetzwich&show_icons=true&count_private=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iks-ploetzwich&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iks-ploetzwich&show_icons=true&count_private=true&theme=onedark" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iks-ploetzwich&theme=onedark" />
+</p>
 
 ### Hobbies :sparkling_heart:
 <ul>
