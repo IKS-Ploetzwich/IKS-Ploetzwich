@@ -1,12 +1,12 @@
-# About
 <p align="center">
   <img alt="Hello There" src="img/hello-there.gif">
 </p>
 
-<p align="center">
-  My name is Robin, I'm 26 and am currently finishing the last year of my apprenticeship <a href="https://github.com/iks-gmbh" target="_blank">@IKS-Gmbh</a>.
-</p>
 
+<h1 align="center">
+  My name is <strong>Robin</strong>, I'm 26 and am currently finishing the last year of my apprenticeship <a href="https://github.com/iks-gmbh" target="_blank">@IKS-Gmbh</a>.
+</h1>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iks-ploetzwich&show_icons=true&count_private=true&theme=onedark" />
 </p>
@@ -14,15 +14,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iks-ploetzwich&theme=onedark" />
 </p>
 
-### Hobbies :sparkling_heart:
-<ul>
+<h1 align="center">Hobbies :sparkling_heart:</h1>
+<p align="center">
+  <ul>
   <li>:nerd_face: Coding</li>
   <li>:books: History</li>
   <li>:headphones: Music</li>
   <li>:game_die: Tabletop games </li>
   <li>:video_game: Video games</li>
 </ul>
-<br>
+</p>
 
 <p align="center">
 <a href="https://www.instagram.com/fantasianmind_art/" target="_blank"><strong>:camera: by FantasianMind, check them out!</strong></a><br>
