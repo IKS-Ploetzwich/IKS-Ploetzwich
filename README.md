@@ -1,9 +1,10 @@
 # About
-<div align="center>
-  <img width="400" height="300" alt="Hello There!" src="https://thumbs.gfycat.com/MeagerHardtofindAlbertosaurus-size_restricted.gif" />
-</div>
-
-My name is Robin, I'm 26 and currently in the last year of my apprenticeship [@IKS-Gmbh](https://github.com/iks-gmbh).<br>
+<p align="center>
+  <img width="400" height="300" alt="Hello There!" src="img/hello-there.gif">
+</p>
+<br>
+My name is Robin, I'm 26 and currently in the last year of my apprenticeship [@IKS-Gmbh](https://github.com/iks-gmbh). 
+<br>
 Besides coding I enjoy especially history, music and playing all kinds of games.
 
 :camera: by [FantasianMind](https://www.instagram.com/fantasianmind_art/), check them out!
