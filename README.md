@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hello There" src="img/hello-there.gif">
+  <img alt="Hello There" src="https://github.com/IKS-Ploetzwich/IKS-Ploetzwich/blob/master/img/hello-there.gif">
 </p>
 
 
