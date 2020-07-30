@@ -10,10 +10,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iks-ploetzwich&show_icons=true&count_private=true&theme=onedark" />
 </p>
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iks-ploetzwich&count_private=true&theme=onedark" />
 </p>
-
+-->
 <h2 align="center">Techstack :wrench:</h2>
 <p align="center">Java • Kotlin • TypeScript • Angular • Python • Html • CSS • GraphQL • MySQL • PostgreSQL • MongoDB</p>
 
