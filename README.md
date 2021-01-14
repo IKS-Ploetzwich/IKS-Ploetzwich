@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-  My name is <strong>Robin</strong>, I'm 26 and currently finishing the last year of my apprenticeship <a href="https://github.com/iks-gmbh" target="_blank">@IKS-Gmbh</a>.
+  My name is <strong>Robin</strong>, I'm 26 and working as an IT Consultant <a href="https://github.com/iks-gmbh" target="_blank">@IKS-Gmbh</a>.
 </h2>
 <br>
 <p align="center">
