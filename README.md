@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-  Hi! I'm <strong>Robin</strong>, a 26 year old nerd working as an IT Consultant for <a href="https://github.com/iks-gmbh" target="_blank">IKS-Gmbh</a>.
+  Hi! I'm <strong>Robin</strong>, a 28 year old nerd working as an IT Consultant for <a href="https://github.com/iks-gmbh" target="_blank">IKS-Gmbh</a>.
 </h2>
 <br>
 <p align="center">
