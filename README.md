@@ -4,12 +4,9 @@
 
 
 <h2 align="center">
-  Hi! I'm <strong>Robin</strong>, a 28 year old nerd working as an IT Consultant for <a href="https://github.com/iks-gmbh" target="_blank">IKS-Gmbh</a>.
+  Hi! I'm <strong>Robin</strong>, a 31 year old nerd working as an IT Consultant for <a href="https://github.com/iks-gmbh" target="_blank">IKS-Gmbh</a>.
 </h2>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iks-ploetzwich&show_icons=true&count_private=true&theme=onedark" />
-</p>
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iks-ploetzwich&count_private=true&theme=onedark" />
