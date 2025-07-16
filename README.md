@@ -13,7 +13,7 @@
 </p>
 -->
 <h2 align="center">Techstack :wrench:</h2>
-<p align="center">Java • Kotlin • TypeScript • Angular • Python • Html • CSS • GraphQL • MySQL • PostgreSQL • MongoDB</p>
+<p align="center">Java • Kotlin • TypeScript • Angular • Html • CSS  • MySQL • PostgreSQL • MongoDB</p>
 
 <h2 align="center">Hobbies :sparkling_heart:</h2>
 <p align="center">:nerd_face: Coding</p>
